@@ -1,5 +1,5 @@
-<a href="https://ibb.co/tw5KmMdF"><img  src="https://i.ibb.co/j9Ff6vps/github-header-image.png" alt="github-header-image" border="0" /></a>
-<br><br><br>
+### Olá! Eu sou a Jana Cruz 👋
+
 💻 Desenvolvedora | ♿ PCD | 🎨 Apaixonada por Design | 🚀 Sempre aprendendo algo novo
 
 ---
