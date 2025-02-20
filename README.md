@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/be7e2230-8938-4abb-bbe3-5732bf2649d3)
-
+![Header](./your-header-image-name.png)
 
 
 💻 Desenvolvedora | ♿ PCD | 🎨 Apaixonada por Design | 🚀 Sempre aprendendo algo novo
