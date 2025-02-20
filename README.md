@@ -1,5 +1,6 @@
-https://ibb.co/tw5KmMdF
 
+
+### Olá! Eu sou a Jana Cruz 👋
 
 💻 Desenvolvedora | ♿ PCD | 🎨 Apaixonada por Design | 🚀 Sempre aprendendo algo novo
 
@@ -58,4 +59,3 @@ https://ibb.co/tw5KmMdF
 ---
 
 ✨ _"A tecnologia move o mundo." - Steve Jobs_
-
