@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/JanaCruzS/SEU-REPO/main/banner.png" alt="Bem-vindo ao meu perfil!" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JanaCruzS/SEU-REPO/main/hello-world-java.gif" alt="Hello World Animado em Java" />
+</p>
+
 ### Olá! Eu sou a Jana Cruz 👋
 
 💻 Desenvolvedora | ♿ PCD | 🎨 Apaixonada por Design | 🚀 Sempre aprendendo algo novo
@@ -25,6 +29,13 @@
 ![Testes Automatizados](https://img.shields.io/badge/-Testes%20Automatizados-9C27B0?style=flat&logo=testing-library&logoColor=white)
 
 📊 **Estatísticas do GitHub:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanaCruzS/JanaCruzS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanaCruzS/JanaCruzS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JanaCruzS/JanaCruzS/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Visitantes](https://komarev.com/ghpvc/?username=JanaCruzS&label=Profile%20Views&color=blue&style=flat)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=JanaCruzS&label=Profile%20Views&color=blue&style=flat)
@@ -54,3 +65,4 @@
 ---
 
 ✨ _"A tecnologia move o mundo." - Steve Jobs_
+
