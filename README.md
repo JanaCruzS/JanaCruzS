@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JanaCruzS/SEU-REPO/main/banner.png" alt="Bem-vindo ao meu perfil!" />
-</p>
+![image](https://github.com/user-attachments/assets/be7e2230-8938-4abb-bbe3-5732bf2649d3)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JanaCruzS/SEU-REPO/main/hello-world-java.gif" alt="Hello World Animado em Java" />
-</p>
 
-### Olá! Eu sou a Jana Cruz 👋
 
 💻 Desenvolvedora | ♿ PCD | 🎨 Apaixonada por Design | 🚀 Sempre aprendendo algo novo
 
