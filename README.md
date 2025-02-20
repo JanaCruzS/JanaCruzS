@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JanaCruzS/SEU-REPO/main/banner.png" alt="Bem-vindo ao meu perfil!" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JanaCruzS/SEU-REPO/main/hello-world-java.gif" alt="Hello World Animado em Java" />
+</p>
 
 ### Olá! Eu sou a Jana Cruz 👋
 
@@ -32,9 +38,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanaCruzS&theme=dracula" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanaCruzS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaCruzS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JanaCruzS&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 🚀 **Projetos em destaque:**
