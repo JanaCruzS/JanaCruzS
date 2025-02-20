@@ -24,12 +24,6 @@
 
 📊 **Estatísticas do GitHub:**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanaCruzS/JanaCruzS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanaCruzS/JanaCruzS/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JanaCruzS/JanaCruzS/output/github-contribution-grid-snake.svg">
-</picture>
-
 ![Visitantes](https://komarev.com/ghpvc/?username=JanaCruzS&label=Profile%20Views&color=blue&style=flat)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=JanaCruzS&label=Profile%20Views&color=blue&style=flat)
